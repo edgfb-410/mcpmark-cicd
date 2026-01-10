@@ -1,4 +1,3 @@
-const unusedVar = 123;
-console.log("Hello");
-let x = 5
-const y = "test"
+// console.log('Hello');
+let x = 5;
+const y = 'test';
